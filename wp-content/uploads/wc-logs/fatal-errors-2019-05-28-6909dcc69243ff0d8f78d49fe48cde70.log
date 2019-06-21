@@ -1,0 +1,6 @@
+2019-05-28T10:43:43+00:00 CRITICAL Allowed memory size of 67108864 bytes exhausted (tried to allocate 786432 bytes) in /home/divsizvx/public_html/aquergy/wp-content/themes/betheme/functions/builder/back.php on line 4556
+
+2019-05-28T10:44:03+00:00 CRITICAL Allowed memory size of 67108864 bytes exhausted (tried to allocate 786432 bytes) in /home/divsizvx/public_html/aquergy/wp-content/themes/betheme/functions/builder/back.php on line 4556
+
+2019-05-28T10:45:10+00:00 CRITICAL Allowed memory size of 67108864 bytes exhausted (tried to allocate 786432 bytes) in /home/divsizvx/public_html/aquergy/wp-content/themes/betheme/functions/builder/back.php on line 4556
+
